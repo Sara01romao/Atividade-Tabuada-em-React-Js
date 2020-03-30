@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-	Tabuada em ReactJs - Ativide prática
+	Tabuada em React Js - Ativide prática
 </h1
 
 
