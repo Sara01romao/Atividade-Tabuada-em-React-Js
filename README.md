@@ -8,5 +8,5 @@
 
   
 <h4 align="center"> 
-	:construction:  Em Denvolvimento :construction:
+	:construction:  Em Desenvolvimento :construction:
 </h4>
